@@ -1,4 +1,4 @@
-# SWE30011-IoT-Programming-Group-project-Smart-home-system
+# IoT-Programming-Group-project-Smart-home-system
 
 ## Authors: Dilni De Silva, Joshua Mota
 
